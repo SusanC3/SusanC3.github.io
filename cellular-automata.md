@@ -1,6 +1,6 @@
 ## Cellular Automata Simulation
 
-This simulator inclues both [life-like cellular automaton](https://en.wikipedia.org/wiki/Life-like_cellular_automaton) (such as Conway's Game of Life) and [Elementary Cellular Automaton](https://mathworld.wolfram.com/ElementaryCellularAutomaton.html). 
+This simulator inclues both [life-like cellular automaton](https://en.wikipedia.org/wiki/Life-like_cellular_automaton) (such as Conway's Game of Life) and [Elementary Cellular Automaton](https://mathworld.wolfram.com/ElementaryCellularAutomaton.html). Check out the code on [Github](https://github.com/SusanC3/Cellular-Automata)
 
 ### Video
 <iframe 

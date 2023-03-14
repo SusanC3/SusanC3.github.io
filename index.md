@@ -2,6 +2,8 @@
 
 I enjoy programming and all things computer science. Check out my projects by clicking on the buttons above!
 
+Here is my [Github](https://github.com/SusanC3)
+
 I also have a [resume](https://drive.google.com/uc?export=download&id=1JU2sifDmUQgtM7VxSBIjhVjKs0mfc4pB), if you're interested.
 
 
