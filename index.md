@@ -1,9 +1,8 @@
 ## Hello. I am Susan.
 
-This is my website :)
+I enjoy programming and all things computer science. Check out my projects by clicking on the buttons above!
 
-### Cellular Automata
+I also have a [resume](https://drive.google.com/uc?export=download&id=1JU2sifDmUQgtM7VxSBIjhVjKs0mfc4pB), if you're interested.
 
-Watch my [Cellular Automata](https://www.youtube.com/watch?v=dc4Iij_VFTQ) video!
 
 <script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
