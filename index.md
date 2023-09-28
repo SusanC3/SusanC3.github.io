@@ -2,7 +2,7 @@
 
 I enjoy programming and all things computer science. Check out my projects by clicking on the buttons above!
 
-Here is my [Github](https://github.com/SusanC3).
+Here is my [Github](https://github.com/SusanC3), my [YouTube](https://www.youtube.com/@susanclay/featured), and my [LinkedIn](https://www.linkedin.com/in/susan-clay-6b4b4a26b/).
 
 I also have a [resume](https://drive.google.com/uc?export=download&id=1JU2sifDmUQgtM7VxSBIjhVjKs0mfc4pB), if you're interested.
 
